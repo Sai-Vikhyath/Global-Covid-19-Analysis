@@ -1,4 +1,4 @@
-# Global COVID-19 Analysis: Deaths, Cases, and Vaccination Trends
+# Global COVID-19 Analysis: Deaths, Cases, and Vaccination Trends Using Power BI and Tableau
 
 The COVID-19 pandemic has affected millions globally, leaving behind a trail of data that can offer valuable insights into its impact. This project focuses on analyzing COVID-19 data concerning **total cases**, **deaths**, and **vaccinations** across various regions and countries. The goal is to uncover patterns, correlations, and trends that could inform future pandemic responses or provide historical understanding.
 
